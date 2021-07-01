@@ -1,5 +1,5 @@
 # SpringBoot-Rest
-Um exemplo prático, como construir uma API Restful utilizando Java/SpringBoot.
+Um exemplo prático, como construir uma API Restful utilizando Java/SpringBoot
 
 ### O que é uma API.:space_invader: 
 Todo profissional em desenvolvimento web, independente do nível de conhecimento, no mínimo já ouviu falar
