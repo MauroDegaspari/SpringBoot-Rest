@@ -16,7 +16,9 @@ real a implementação de código utilizando esse framework!
 ### O que é, e como fazer um CRUD.:bank: 
 Outro termo para a sopa de letrinhas que todo desenvolvedor web precisa saber — CRUD! <BR>
 CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
-#### C: Create (criar) - criar um novo registro
+#### ✅ C: Create (criar) - criar um novo registro
 #### :eye:R: Read (ler) - ler (exibir) as informações de um registro
+#### ♻️ U: Update (atualizar) - atualizar os dados do registro
+#### ❌ D: Delete (apagar) - apagar um registro
 
 ![tenor](https://github.com/MauroDegaspari/Contactura/blob/master/new-Converted.gif) 
