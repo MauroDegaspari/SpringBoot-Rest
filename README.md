@@ -1,5 +1,6 @@
 # SpringBoot-Rest
 Um exemplo prático, como construir uma API Restful utilizando Java/SpringBoot
+==================
 
 ### O que é uma API.:space_invader: 
 Uma API (interface application program) é um código programável que faz a “ponte” de comunicação entre duas aplicações distintas. Existem três tipos de APIs: a baseada em programa, nuvem ou local. Hipoteticamente falando, a API seria como um garçom que leva o pedido do cliente até a cozinha do restaurante e traz o que foi solicitado.
@@ -13,7 +14,7 @@ Sendo assim, em outras palavras, é uma base para a construção de APIs que con
 Java é uma linguagem de programação utilizada em diversas aplicações, entre elas o desenvolvimento de serviços web. Veja o que é SpringBoot, e acompanhe em tempo
 real a implementação de código utilizando esse framework!
 
-### O que é, e como fazer um CRUD.:bank: 
+### O que é CRUD.:bank: 
 Outro termo para a sopa de letrinhas que todo desenvolvedor web precisa saber — CRUD! <BR>
 CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
 #### ✅ C: Create (criar) - criar um novo registro
